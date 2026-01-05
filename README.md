@@ -1,2 +1,2 @@
-# DataScienceLearnings
-This repository will contain my data science course assignments and learnings
+# DataScienceProjects
+This repository contains my data science course assignments and learnings
